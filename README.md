@@ -19,7 +19,8 @@ To help developers build applications that teachers can use to reduce
 the time spent on marking, I wrote a python program that takes in
 a snapped picture of the multple choice answer sheet and returned the 
 selected options that the student selected. This can then be checked against
-the correct answers to know the student's score.
+the correct answers to know the student's score. And all these can be done 
+within 5 to 15 seconds per question paper of 60 questions.
 
 This program is built using machine learning and image processing techniques
-in OpenCV Python. 
+in OpenCV Python.
